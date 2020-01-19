@@ -1,10 +1,5 @@
 # Unstack the “Big Stack”
 
-## Team Members:
-1. Ankita Kundra
-2. Gayatri Ganapathy
-3. Kunal Niranjan Desai
-4. Ria Gupta
 
 ## Data
 https://bigquery.cloud.google.com/dataset/bigquery-public-data:stackoverflow
